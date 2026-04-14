@@ -4,15 +4,25 @@ Liteboard is a keyboard with total 40 key,it is super lite....and functional
 
 ![3d-main](./picture/3d-main.png "liteboard-3d-picture")
 
-BOM:
+## Features:
+- 40 keys 12x4 layout
+- Lite weight and **only 1.3cm thick**
+- An volume knob
+- haptic feedback support by the....wait iPhone haptic engine?
+## BOM:
 [liteboard-bom.csv]("./bom/liteboard-bom.csv")
-MIWU-MINI:an Chinese company ,i found it on Taobao.idk if findable on AliExpress
-no taxes no shiiping,for 1.37$.
+MIWU-MINI:an Chinese company ,i found it on Taobao.idk if findable on AliExpress (i bought on taobao)
+any Low shaft switch i think is okay.
+no taxes no shipping,for 1.37$.
+
+HDR-M_2.54_2x1:a pin header,connecting the haptic engine.
 
 
-software:
+
+## Software:
 [source-code](./program/...)
+not finished yet.
 
 
-## Print
-i use Bambu A1 for printing,
+## Printing:
+PLA,White
