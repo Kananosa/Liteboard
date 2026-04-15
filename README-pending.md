@@ -20,8 +20,9 @@ HDR-M_2.54_2x1:a pin header,connecting the haptic engine.
 
 
 ## Software:
-[source-code](./program/...)
-not finished yet.
+[source-code](./firmware/main.py)
+use kmk firmware,see https://github.com/KMKfw/kmk_firmware/ for more informaion.
+not finished yet..
 
 
 ## Printing:
